@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Corpse Flower",
+      "image": "https://i0.wp.com/theplanthunter.com.au/wp-content/uploads/2018/10/WorldsUgliestPlants_Post7.jpg?quality=99&strip=all&ssl=1&w=900",
+      "price": "40",
+      "id": 8
     }
   ]
 }
